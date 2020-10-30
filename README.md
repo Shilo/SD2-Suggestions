@@ -3,7 +3,7 @@
 Soda Dungeon 2 unofficial crowdstormed suggestions for features and bug fixes.  
 
 ## Get started
-Add your suggestions in the [Issues page](https://github.com/Shilo/SD2-Suggestions/issues).  
+Add your suggestions in the [Issues page](https://github.com/Shilo/SD2-Suggestions/issues) by pressing [New Issue](https://github.com/Shilo/SD2-Suggestions/issues/new/choose).  
 
 ## Prioritizing Suggestions
 If you like an existing suggestion, make sure to react to it with a "thumbs up" 👍 emoji and/or comment on it. The more reactions, the more noticed the suggestion will be.  
