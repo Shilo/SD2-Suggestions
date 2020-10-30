@@ -6,7 +6,7 @@ Soda Dungeon 2 unofficial crowdstormed suggestions for features and bug fixes.
 Add your suggestions in the [Issues page](https://github.com/Shilo/SD2-Suggestions/issues).  
 
 ## Prioritizing Suggestions
-If you like an existing suggestion, make sure to react to it with a "thumbs up" 👍 emoji. The more reactions, the more noticed the suggestion will be.  
+If you like an existing suggestion, make sure to react to it with a "thumbs up" 👍 emoji and/or comment on it. The more reactions, the more noticed the suggestion will be.  
 
 ## Contributing
 If you would like to directly manage/add to this community repository, send a request to [Shilo](https://github.com/Shilo).
