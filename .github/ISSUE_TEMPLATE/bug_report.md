@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help improve Soda Dungeon 2
-title: ''
-labels: ''
+title: "[BUG]"
+labels: bug
 assignees: ''
 
 ---

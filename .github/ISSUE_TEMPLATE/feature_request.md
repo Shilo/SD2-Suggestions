@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for Soda Dungeon 2
-title: ''
-labels: ''
+title: "[FEATURE]"
+labels: enhancement
 assignees: ''
 
 ---
