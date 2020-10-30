@@ -1,4 +1,4 @@
-![Soda Dungeon 2](SodaDungeon2.png)
+[![Soda Dungeon 2](SodaDungeon2.png)](https://www.sodadungeon.com)
 # Soda Dungeon 2 Suggestions
 Soda Dungeon 2 unofficial crowdstormed suggestions for features and bug fixes.  
 
