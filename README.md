@@ -4,7 +4,7 @@
 Soda Dungeon 2 unofficial crowdstormed suggestions for features and bug fixes. The goal is to prioritize community contribution and organization. The hope is to streamline suggestions and become more noticed by the [Soda Dungeon 2 Developer](https://www.sodadungeon.com). It all depends on the community.
 
 ## Get started
-View or add suggestions in the [Issues page](https://github.com/Shilo/SD2-Suggestions/issues). Add new suggestions by pressing [New issue](https://github.com/Shilo/SD2-Suggestions/issues/new/choose). It is recommended to use the [Issues Templates](https://github.com/Shilo/SD2-Suggestions/issues/new/choose) to have your suggestion more readable and understandable. You can also view the status of suggestions via the card based layout in [Projects page](https://github.com/Shilo/SD2-Suggestions/projects).
+View or add suggestions in the [Issues page](https://github.com/Shilo/SD2-Suggestions/issues). Add new suggestions by pressing [New issue](https://github.com/Shilo/SD2-Suggestions/issues/new/choose). It is recommended to use the [Issues Templates](https://github.com/Shilo/SD2-Suggestions/issues/new/choose) to have your suggestion more readable and understandable. You can also view the status of suggestions via the card based layout in [Projects page](https://github.com/Shilo/SD2-Suggestions/projects/1).
 
 ## Prioritizing Suggestions
 If you like an existing suggestion, make sure to react to it with a "thumbs up" 👍 emoji and/or comment on it. Suggestions can be sorted by "most reactions" and "most commented". The more reactions, the more noticed the suggestion will be.
